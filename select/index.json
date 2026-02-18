@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Safety",
+  "base_artist": "J. Cole",
+  "createdAt": "2026-02-18T11:51:37.808878Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Safety of Distance",
+      "artist": "Lior",
+      "has_synced": true,
+      "path": "select/01_Safety_of_Distance_Lior.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Safety",
+      "artist": "Memory Tapes",
+      "has_synced": false,
+      "path": "select/02_Safety_Memory_Tapes.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "safety net (feat. Ty Dolla $ign)",
+      "artist": "Ariana Grande feat. Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/03_safety_net_(feat._Ty_Dolla_$ign)_Ariana_Grande_feat._Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "safety net",
+      "artist": "Ariana Grande feat Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/04_safety_net_Ariana_Grande_feat_Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Safety Dance",
+      "artist": "Angel Olsen",
+      "has_synced": true,
+      "path": "select/05_Safety_Dance_Angel_Olsen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Safety Dance - Extended Club Mix",
+      "artist": "Men Without Hats",
+      "has_synced": true,
+      "path": "select/06_The_Safety_Dance_-_Extended_Club_Mix_Men_Without_Hats.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Safety Dance (Extended Club Mix)",
+      "artist": "Men Without Hats",
+      "has_synced": true,
+      "path": "select/07_The_Safety_Dance_(Extended_Club_Mix)_Men_Without_Hats.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "safety net (Feat. Ty Dolla $ign)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/08_safety_net_(Feat._Ty_Dolla_$ign)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Safety Girl",
+      "artist": "Electric Six",
+      "has_synced": false,
+      "path": "select/09_Safety_Girl_Electric_Six.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "La Duchess Anne (Safety Scissors remix)",
+      "artist": "Grizzly Bear",
+      "has_synced": false,
+      "path": "select/10_La_Duchess_Anne_(Safety_Scissors_remix)_Grizzly_Bear.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "La Duchess Anne (Safety Scissors)",
+      "artist": "Grizzly Bear",
+      "has_synced": false,
+      "path": "select/11_La_Duchess_Anne_(Safety_Scissors)_Grizzly_Bear.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "From Safety to Where",
+      "artist": "Joy Division",
+      "has_synced": false,
+      "path": "select/12_From_Safety_to_Where_Joy_Division.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Suzie Safety",
+      "artist": "Sparks",
+      "has_synced": false,
+      "path": "select/13_Suzie_Safety_Sparks.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Best Safety Lies in Fear",
+      "artist": "Emilie Autumn",
+      "has_synced": true,
+      "path": "select/14_Best_Safety_Lies_in_Fear_Emilie_Autumn.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "From Safety To Where",
+      "artist": "Joy Division",
+      "has_synced": true,
+      "path": "select/15_From_Safety_To_Where_Joy_Division.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SAFETY",
+      "artist": "J.Cole",
+      "has_synced": false,
+      "path": "select/pl_01_SAFETY_J.Cole.txt"
+    }
+  ]
+}
